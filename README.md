@@ -1,11 +1,7 @@
 # Super Mario Bros Remastered
-A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!
+A Fork of Super Mario Bros. Remastered based on NinStar's Super Mario UniMaker fangame with tweaks that might not align with the spirit of SMB1
 
-<img width="3840" height="2160" alt="SMB1R_BANNER_printable" src="https://github.com/user-attachments/assets/ed0e97a8-614a-44e2-b69f-2654fca6196c" />
-
-### Art by [@krystalphantasm.bsky.social](https://bsky.app/profile/krystalphantasm.bsky.social/post/3lvgmgvjeks2f)
-
-### Download: https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases
+### Download: https://github.com/JHDev2006/Super-Mario-UniMaker-Remastered-Public/releases
 
 # Requires an original SMB1 NES ROM to play! None of the original assets are contained in the source code, unless it was originally made by us!
 
