@@ -15,7 +15,7 @@ warnings/check_angle_interpolation_type_conflicting=false
 
 [application]
 
-config/name="SMB1R"
+config/name="UniMakerR"
 run/main_scene="uid://bn66tnn8nlpi7"
 config/use_custom_user_dir=true
 config/features=PackedStringArray("4.5", "Forward Plus")
