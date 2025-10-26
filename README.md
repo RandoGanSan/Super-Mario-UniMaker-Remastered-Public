@@ -1,4 +1,4 @@
-# Super Mario Bros Remastered
+# Super Mario UniMaker Remastered
 A Fork of Super Mario Bros. Remastered based on NinStar's Super Mario UniMaker fangame with tweaks that might not align with the spirit of SMB1
 
 ### Download: https://github.com/JHDev2006/Super-Mario-UniMaker-Remastered-Public/releases
