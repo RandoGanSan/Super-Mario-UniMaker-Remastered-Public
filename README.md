@@ -1,11 +1,11 @@
 # Super Mario UniMaker Remastered
-A Fork of Super Mario Bros. Remastered based on NinStar's Super Mario UniMaker fangame with tweaks that might not align with the spirit of SMB1
+A Fork of Super Mario Bros. Remastered based on NinStar's Super Mario UniMaker fangame with tweaks and additions focusing more on customizability
 
-### Download: https://github.com/JHDev2006/Super-Mario-UniMaker-Remastered-Public/releases
+### Download: https://github.com/RandoGanSan/Super-Mario-UniMaker-Remastered-Public/releases
 
-# Requires an original SMB1 NES ROM to play! None of the original assets are contained in the source code, unless it was originally made by us!
+# Requires an original SMB1 NES ROM to play! All sprites (not currently as of now) has been replaced with assets from UniMaker or customs.
 
-# This does NOT act as a replacement for the original Super Mario Bros. games. Super Mario Bros. & Super Mario Bros.: The Lost Levels, can be played now on Nintendo Switch, through Nintendo Switch Online
+# This does NOT act as a replacement for the original Super Mario Bros. games. Super Mario Bros. & Super Mario Bros.: The Lost Levels, which can be played now on Nintendo Switch via Nintendo Switch Online
 
 ## Features
 - Super Mario Bros., Super Mario Bros.: The Lost Levels, Super Mario Bros. Special and All Night Nippon: Super Mario Bros. Fully recreated from the ground up!
@@ -13,7 +13,6 @@ A Fork of Super Mario Bros. Remastered based on NinStar's Super Mario UniMaker f
 - Resource Packs! Fully customize how the game looks and sounds.
 - Custom Characters - Add in your own characters to use in game.
 - Fully Open Source!
-- Level Share Square Partnered
 - Portable mode by creating `portable.txt` in the executable directory
 
 ## Downloading
@@ -50,15 +49,9 @@ Please refer to the Godot engine requirements for minimum and recommended hardwa
 
 [Recommended Requirements](https://docs.godotengine.org/en/latest/about/system_requirements.html#id3)
 
-
 ## Issues
 When opening an issue, please keep it to one report, per post, and try and be as helpful as possible, when telling me what has occured, so that its as easy to fix as possible.
-Please do not open issues, for feature requests, suggestions, or opinions. BUG REPORTS ONLY
+Please do not open issues for feature requests, suggestions, or opinions that should be in the [discussions tab.](https://github.com/RandoGanSan/Super-Mario-UniMaker-Remastered-Public/discussions). 
 
 ## Known Issues
-There are a couple known issues, mainly due to being built off of Godot, and these issues existing in the engine itself.
-- Steam deck controls do not work natively, you can circumvent this by setting up controller bindings to emulate keys instead, apologies.
-- Physics are weird, when interacting with corners + the camera barrier
-- Drop shadows jitter when playing with "Smooth Rendering"
-- Several entities jitter at times.
-- Blocks + coins, respawn when reloading resource packs
+[Issues from the original are still prevelant, ](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) new ones will be written as I find them
