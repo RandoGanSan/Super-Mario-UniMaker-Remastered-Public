@@ -1,5 +1,6 @@
 # Super Mario UniMaker Remastered
-A Fork of Super Mario Bros. Remastered based on NinStar's Super Mario UniMaker fangame with tweaks and additions focusing more on customizability
+A Fork of Super Mario Bros. Remastered based on NinStar's Super Mario UniMaker fangame with tweaks and additions focusing more on customizability.
+There's now also a [Discord server](https://discord.gg/ksWM9nsWhK) for community disccusions
 
 ### Download: https://github.com/RandoGanSan/Super-Mario-UniMaker-Remastered-Public/releases
 
